@@ -1,6 +1,8 @@
 # mcef-codec-patch
 Patch JCEF binaries for MCEF to enable support for proprietary codecs such as AVC and MPEG-4.
 
+<img src="https://imgur.com/HvImTGc.png" width="300">
+
 ## Instructions
 Before you use this tool, ensure MCEF has been installed and has been run at least once. You should test to make sure everything's working before trying to patch it.
 
