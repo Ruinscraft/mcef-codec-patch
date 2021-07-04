@@ -1,0 +1,8 @@
+chrome_elf.dll.bsdiff b66b94675953808177492bdc33f49641678b87b9
+jcef.dll.bsdiff bf5ac2cd21516237924f24bb1deb07a9bdf87386
+jcef_helper.exe.bsdiff 924c0de5d72e6c5ae6e9371bbe855eb87d3756e6
+libcef.dll.bsdiff 16422849dbd9a24213ea1c35c77b2705273a6266
+libEGL.dll.bsdiff 7571a0b6b806f54ef61e538b1859625b9b4496ae
+libGLESv2.dll.bsdiff f0340eb1b1a3b77416b2e50749f95268fe6490bc
+swiftshader\libEGL.dll.bsdiff 7ef86a9a436d65f980280022fddc524e1c084f7f
+swiftshader\libGLESv2.dll.bsdiff 88daa548609683917a7f0d15939b890bc10b0536

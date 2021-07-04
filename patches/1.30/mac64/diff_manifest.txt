@@ -1,0 +1,14 @@
+jcef_app.app/Contents/Java/jcef.jar.bsdiff cb79dbc1f30377e2ddec710fc1ce624397c7e48c
+jcef_app.app/Contents/Java/jcef-tests.jar.bsdiff 504904474e1128fd67ef977ef4a0bec5802f237f
+jcef_app.app/Contents/Frameworks/jcef Helper (Plugin).app/Contents/MacOS/jcef Helper (Plugin).bsdiff 3ee59ca7db2308b13236321b211e538396433649
+jcef_app.app/Contents/Frameworks/jcef Helper (GPU).app/Contents/MacOS/jcef Helper (GPU).bsdiff 3ee59ca7db2308b13236321b211e538396433649
+jcef_app.app/Contents/Frameworks/jcef Helper (Renderer).app/Contents/MacOS/jcef Helper (Renderer).bsdiff 3ee59ca7db2308b13236321b211e538396433649
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Chromium Embedded Framework.bsdiff 03d61e1c52c4f197268b2a536b0bfeb13e4130bc
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/resources.pak.bsdiff 70709909569e7760b0bcbf78d22607487a87aa8d
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef.pak.bsdiff ca8ee8b7aee9131c32a519e8f3b304a94adb4d21
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libEGL.dylib.bsdiff b1647325b64e7dd9c2422e53cc3efd06b7c64ec8
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libswiftshader_libGLESv2.dylib.bsdiff 557836f60da5320b328f3f1a9605a5223fa92d85
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libswiftshader_libEGL.dylib.bsdiff 6d58c5057ee2625bb14f94b5b557f24a51780298
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libvk_swiftshader.dylib.bsdiff fc0a3a9dabb1420976c60f4d054de4a1e886368f
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libGLESv2.dylib.bsdiff 8d41a3610884300549570e53409bcf801c0de917
+jcef_app.app/Contents/Frameworks/jcef Helper.app/Contents/MacOS/jcef Helper.bsdiff 3ee59ca7db2308b13236321b211e538396433649
