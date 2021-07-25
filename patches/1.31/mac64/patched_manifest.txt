@@ -1,0 +1,107 @@
+jcef_app.app/Contents/Info.plist ca707dd91f48adb05bcbe8093133a30112cda6b4
+jcef_app.app/Contents/PkgInfo 9f9eea0cfe2d65f2c3d6b092e375b40782d08f31
+jcef_app.app/Contents/MacOS/JavaAppLauncher 47867ecc99ecb669db758586c7b0bba5bcbe7603
+jcef_app.app/Contents/Resources/CefIcon.icns cb9ac7e633ca856e0a02cacfac0129b0145f9009
+jcef_app.app/Contents/Resources/de.lproj/Localizable.strings fa624bb44869c927a5ac89f4b62a0be7ba47a96f
+jcef_app.app/Contents/Resources/ja.lproj/Localizable.strings 13c01cb9ca04509b39b7472805ddbd6bf963f360
+jcef_app.app/Contents/Resources/en.lproj/Localizable.strings 98fde5c016cad7a9443d17af87476ce9455547dc
+jcef_app.app/Contents/Resources/pt_BR.lproj/Localizable.strings dfae7cee63788b7037cd0035dda0f5cc3199454b
+jcef_app.app/Contents/Resources/it.lproj/Localizable.strings 9e614a9be121e2b403ea79f2360d5c71471d9065
+jcef_app.app/Contents/Resources/be.lproj/Localizable.strings 666a5c53ea6cfc4b1a1a193211683add7113eaa6
+jcef_app.app/Contents/Resources/cs.lproj/Localizable.strings 7b3c2056bd9a4421a66e62704eb458074733d117
+jcef_app.app/Contents/Resources/no.lproj/Localizable.strings 5d9bdd2057d6e33744adf139c3e3a7cf804c55dd
+jcef_app.app/Contents/Resources/ia.lproj/Localizable.strings fd93104efe6bca87163cfeafc97f3b2d717a0397
+jcef_app.app/Contents/Resources/fr.lproj/Localizable.strings 01ee06e8b6af1550ff04166d8fbe812826ef7964
+jcef_app.app/Contents/Resources/nl.lproj/Localizable.strings a94a650890f39fc72f119f72078d437dd2c40818
+jcef_app.app/Contents/Java/jcef.jar 7454a7de444c39c709873a68e62aa6bf1864fc43
+jcef_app.app/Contents/Java/libjcef.dylib 5812b3b360a6061cbf37153a381a4a83c0effd14
+jcef_app.app/Contents/Java/gluegen-rt-natives-macosx-universal.jar 15d6b5506d1c4f72ee00d091b75da1b56b9105de
+jcef_app.app/Contents/Java/junit-platform-console-standalone-1.4.2.jar 07bf5d11f9ca91c59f6f6f4aea74eeae528a5937
+jcef_app.app/Contents/Java/jogl-all.jar 9493314115c59938cb18b57b646efb4bce3101e5
+jcef_app.app/Contents/Java/jcef-tests.jar 6df21e4418cb3472ec7aee2aa2063abb2c5d0cd2
+jcef_app.app/Contents/Java/gluegen-rt.jar fea88aedc62c054b4f2fa5dc7518a850ee1071ec
+jcef_app.app/Contents/Java/jogl-all-natives-macosx-universal.jar 0977a075c7dc964fd0e2a9139664c13c165b781a
+jcef_app.app/Contents/Frameworks/jcef Helper (Plugin).app/Contents/Info.plist ca4bbcdade74e37320afd8f69f77a6e56bcd74aa
+jcef_app.app/Contents/Frameworks/jcef Helper (Plugin).app/Contents/PkgInfo 9f9eea0cfe2d65f2c3d6b092e375b40782d08f31
+jcef_app.app/Contents/Frameworks/jcef Helper (Plugin).app/Contents/MacOS/jcef Helper (Plugin) 671d2503f2ba9a7eef62b354f1715089571130fb
+jcef_app.app/Contents/Frameworks/jcef Helper (GPU).app/Contents/Info.plist 74f72e84652923614f09008c4020039325f23489
+jcef_app.app/Contents/Frameworks/jcef Helper (GPU).app/Contents/PkgInfo 9f9eea0cfe2d65f2c3d6b092e375b40782d08f31
+jcef_app.app/Contents/Frameworks/jcef Helper (GPU).app/Contents/MacOS/jcef Helper (GPU) 956f37c2e422dc15ff6897e9fcec4b57086e2fa4
+jcef_app.app/Contents/Frameworks/jcef Helper (Renderer).app/Contents/Info.plist ea58e33d4a074e34fa71a608d10913f7c6c82d07
+jcef_app.app/Contents/Frameworks/jcef Helper (Renderer).app/Contents/PkgInfo 9f9eea0cfe2d65f2c3d6b092e375b40782d08f31
+jcef_app.app/Contents/Frameworks/jcef Helper (Renderer).app/Contents/MacOS/jcef Helper (Renderer) 4f9294dd8d49b19b5d79f8662e71d94d9bbb1f4d
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Chromium Embedded Framework c303b44f5881fa86afd91b75e6e0ebd40a086ce3
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/chrome_200_percent.pak 86f327f1fe93467d6bcf2fc78f2746396d6aa57a
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef_extensions.pak 2b0c7a3a93ef28fb532a35ba2313344a3c4225da
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef.pak 58f76b5df82863acf1eaa9708734c94e48c6ad33
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/chrome_100_percent.pak de3c7256914b4afc399e831e05b60921585fee44
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/icudtl.dat 8fc04fde7fb09d68d60cfddee0b309fbafb00c1c
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef_100_percent.pak 941c0c8f8bc9188bddef292ecbc72394b458006a
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef_200_percent.pak 93416d5372b582e28fb5f1b95cc806a0aadb07b8
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/snapshot_blob.bin e1b23d3781130e8963e263a5c84ffba05384624f
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/resources.pak 32190225389dd7bb69d48ea34427b2815aea9f29
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/v8_context_snapshot.x86_64.bin 5379cba9a970499373547986f6ab15a9004110f1
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/devtools_resources.pak 52173e6dfeb57f8cb622c9754b9f6c05cc69011a
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/Info.plist d298d9d3da42f748890b4242702455a99fb3a92a
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/de.lproj/locale.pak e0a297adfc6f38d26710586dfe9e39ebff424fd4
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/he.lproj/locale.pak 84d6a5a518ffa61b8a93b8472942373fb50f87ec
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ar.lproj/locale.pak df8db35ce1d77ef860f2e48ea0819987b075bebb
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/el.lproj/locale.pak 098e871a8a21810fe14378f8a037112e62eaac97
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ja.lproj/locale.pak b22388c1c116c9030da07128df37cf729b9a14d3
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fa.lproj/locale.pak be7e4f3f008b57c2ed8e831f5845e56df7b79ec9
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/mr.lproj/locale.pak 06b2211ebbb5b65cea9b5e66af06942b07fa7808
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/en.lproj/locale.pak 848398b8166cb60e4de4aeb8dd2f37b584eea12b
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/uk.lproj/locale.pak b5111a4805d1affe2341e59dffe2b8b253aaaca5
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/es_419.lproj/locale.pak 1562140428e507fb2197e72957950ef0a5a6d22b
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/gu.lproj/locale.pak 178f6dab16b603e879e2c54a3efa9ce24b88e45a
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/zh_CN.lproj/locale.pak c8cd25cd405d3d745df12a71f16cd128586c4ff1
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/kn.lproj/locale.pak b1871bb4565e8efe0b4734ab67fb5a2d5d08f9b6
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/nb.lproj/locale.pak cbbf31cf51580f1631f857b238f7f1de2a202d73
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/am.lproj/locale.pak 65a47b9bd21a2565e03dc27cdc3ed2b8aa153715
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/es.lproj/locale.pak 90b7ea300809e5c246eb994d0c2e73dd75566334
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sw.lproj/locale.pak dcc7ce5ca45c25347ed7a0d92784306eb225c68d
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sl.lproj/locale.pak 52c84b50f5d83b00756855d61efc16f80f409ab5
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/pt_BR.lproj/locale.pak 7d828b3ecf31b7bda4aa53ea335adbd6ad342d58
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/da.lproj/locale.pak 24c29c1214f0626b10658a2ca6195f3a8c13cf63
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/et.lproj/locale.pak a8bd2903fa219bfa98d860b3a042ff15056919d0
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/it.lproj/locale.pak 019e472edbe770c5ac8965623042aa6c1afbd69a
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/bg.lproj/locale.pak 0dae106e32a2c4cbe66bbaffe36bf0edb6fc01ac
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sk.lproj/locale.pak 07acb5294c7128827b6bafe26ca33f5d0e294d57
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/pt_PT.lproj/locale.pak 73c451b15c6147e619c5057f2a085a5c65c57034
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sr.lproj/locale.pak 809ee8e910c15de0ddaf614b1ea04a62d4e620a0
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ms.lproj/locale.pak b46c45a02dba9570191dd291b060fecef32fa251
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ta.lproj/locale.pak 475e617a2d2d709c1080c817217d6fcebdd6453c
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ml.lproj/locale.pak 122788618ee939fc246017520618641c71102f4f
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sv.lproj/locale.pak 08c933621e880d1f3ccdc037790fc4cb677a1cc7
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/te.lproj/locale.pak 1e460e0be47cdb0d6e9b75efdf34d427e54f52a6
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cs.lproj/locale.pak 82791e92dd8118bca5b0282dc64de263633bb60e
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ko.lproj/locale.pak ff6b9385db18f0b8985b7f02c5e6d6bea5cc88f1
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fil.lproj/locale.pak 804e637fc8e23cbb2dfeb60375ddab42440b31fb
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/hu.lproj/locale.pak e6c66d13709b3b0f49f1afa1f7265b56f0252372
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/tr.lproj/locale.pak 1df5be42a926733d8d51732e4728f37a43190d77
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/pl.lproj/locale.pak 1f20ef3e9d0be1450a99ccc45e081fa273b1a755
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/zh_TW.lproj/locale.pak 0a71a1ece0b1172c80c1bb315d87377a9a7d7182
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/en_GB.lproj/locale.pak ee714771d57a02808e2711428639636e216e8d3d
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/vi.lproj/locale.pak 5b07d68b585bf37124c12141518320fdb9022522
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/lv.lproj/locale.pak 037fef00b657c143992a56697652422f854f9b40
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/lt.lproj/locale.pak 56e53d3dbcb374289e80beff2e24675f61fe9df0
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ru.lproj/locale.pak 0d97e0117b800d663ae0d90e0058c2f97d076b6a
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fr.lproj/locale.pak 8af406afc4375c247ed7775690930662685692e7
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fi.lproj/locale.pak 1b1f9584e17ac3a6951bc2ba2daec29ace3e2485
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/id.lproj/locale.pak 1830f7aa189b3047a11735031bb891d03fae8261
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/nl.lproj/locale.pak e5a3e4fc3e5548b43ab21ec0400fcc30a29b5162
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/th.lproj/locale.pak cfb3f3d1b5d2ba51cedda0cb7233c6677c117df1
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/bn.lproj/locale.pak 09a8103e12fddd997d20c1907d02ae12183e7ba3
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ro.lproj/locale.pak 01547f1e1e0636098935d3aa0ab5e3307a1b6889
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/hr.lproj/locale.pak c56765142393d52a41d452261113bdabfb4615df
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/hi.lproj/locale.pak 1077efa7604e4c7b15342b73752886ea45df5a11
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ca.lproj/locale.pak 1766d5153e34c45ff8d2320cff3f46abd6264de0
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libEGL.dylib 010c7e6a29a8cfd3785aceb0d0b76492dc6f20d4
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/vk_swiftshader_icd.json 8734c383f004e365904068c9cde7999aab0b54c6
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libswiftshader_libEGL.dylib c20541d379162108ecaa9e3b1fbd8de3492b0f93
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libvk_swiftshader.dylib 00ecf9bd0cd091c81dc706db3cf0c7b116a5d90f
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libGLESv2.dylib 2d9ad8fbfb03e94ac8bd9714984e8e9accf10bf9
+jcef_app.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libswiftshader_libGLESv2.dylib 03cb9d7734381fa1b8f3cc8bec1fa5103e554844
+jcef_app.app/Contents/Frameworks/jcef Helper.app/Contents/Info.plist e48caa8907633325aaa6488f8545114887a0e9c7
+jcef_app.app/Contents/Frameworks/jcef Helper.app/Contents/PkgInfo 9f9eea0cfe2d65f2c3d6b092e375b40782d08f31
+jcef_app.app/Contents/Frameworks/jcef Helper.app/Contents/MacOS/jcef Helper 98e51aba351cc4920efce673d496b02e53dcad7b

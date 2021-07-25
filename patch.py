@@ -1,7 +1,7 @@
 """
 mcef-codec-patch
 """
-MCEF_VERSION = "1.30"
+MCEF_VERSION = "1.31"
 PATCHES_DIR = "patches"
 
 from hash import sha1_of_file

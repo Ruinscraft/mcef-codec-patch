@@ -1,0 +1,8 @@
+libjcef.so.bsdiff 0a328998986b7a5c0d2d881215e8a05f55f65e99
+chrome-sandbox.bsdiff 2181d2c3e339e842b91c62e780be07fba2f74750
+libcef.so.bsdiff 594b45fc9b2ae2422ba0baebd8a8503f3383cef6
+libEGL.so.bsdiff 0b3088557de47258057b37defb78b417601bc3d3
+cef.pak.bsdiff 56cd79afa18e7dc0b9fdff6ad2c8bf173f5645e2
+libGLESv2.so.bsdiff cadcfce5a37ce4dd520de059d86a749597815d99
+swiftshader/libEGL.so.bsdiff c43560219f1fb5e7b3fce8d873ad92231ea101af
+swiftshader/libGLESv2.so.bsdiff 08ed18744457527e1430e8fc676bc0df255a3477
